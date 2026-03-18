@@ -3,8 +3,8 @@ import AnimatedSection from "./AnimatedSection";
 import SectionHeading from "./SectionHeading";
 
 const items = [
-  { title: "Global Entrepreneurship Summit 2025", issuer: "E-Cell IIT Kharagpur", date: "Sep 2025", image: "/placeholder.svg" },
-  { title: "DSA – C++ Data Structures & Algorithms", issuer: "CSE Pathashala", date: "Aug 2025", image: "/placeholder.svg" },
+  { title: "Global Entrepreneurship Summit 2025", issuer: "E-Cell IIT Kharagpur", date: "Sep 2025", image: "public/KGP Certificate.jpeg" },
+  { title: "DSA – C++ Data Structures & Algorithms", issuer: "CSE Pathashala", date: "Aug 2025", image: "public/Certificate C++ with DSA.jpeg" },
   { title: "Generative AI Revolution Certificate", issuer: "Aspire for Her", date: "Sep 2024", image: "/placeholder.svg" },
   { title: "Community Development Intern", issuer: "Tare Zameen Foundation", date: "Aug 2024", image: "/placeholder.svg" },
 ];

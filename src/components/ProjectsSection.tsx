@@ -13,7 +13,7 @@ const projects = [
     impact: "Deep understanding of loss functions, gradient computation, and network optimization.",
     stack: ["Python", "Neural Networks", "Backpropagation", "Gradient Descent"],
     github: "https://github.com/HemanthVignesh",
-    image: "/placeholder.svg",
+    image: "public/SmartBee ss.png",
   },
   {
     title: "AI Study Assistant",
@@ -25,7 +25,7 @@ const projects = [
     impact: "Reduced feature integration time by 25% through clean architecture and reusable NLP pipeline.",
     stack: ["FastAPI", "React", "Hugging Face", "NLP"],
     github: "https://github.com/HemanthVignesh",
-    image: "/placeholder.svg",
+    image: "public/ABSA ss.png",
   },
 ];
 

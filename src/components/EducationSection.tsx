@@ -2,7 +2,7 @@ import AnimatedSection from "./AnimatedSection";
 import SectionHeading from "./SectionHeading";
 
 const edu = [
-  { school: "Lovely Professional University", degree: "B.Tech CSE (AI/ML)", cgpa: "7.35", period: "2023 – Present" },
+  { school: "Lovely Professional University", degree: "B.Tech CSE (AI/ML)", cgpa: "7.51", period: "2023 – 2027" },
   { school: "Sri Chaithanya Junior College", degree: "Intermediate", cgpa: "7.5", period: "2020 – 2022" },
   { school: "Vijaya Bharathi EM High School", degree: "Matriculation", cgpa: "10.0", period: "2017 – 2020" },
 ];
